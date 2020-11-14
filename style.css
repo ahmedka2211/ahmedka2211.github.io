@@ -82,7 +82,7 @@
   padding-left: 100px;
 }
 .background{
-  background-image:url("/Users/dc/Desktop/Project/ahmedka2211.github.io/theback.jpg");
+  background-image:url("theback.jpg");
   width: 100%;
   height: 100%;
 }
@@ -113,7 +113,7 @@
 }
 /* for text-coloring navbar */
 .img-holder{
-  background-image: url("/Users/dc/Desktop/Project/ahmedka2211.github.io/cafenight.jpg");
+  background-image: url("cafenight.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
